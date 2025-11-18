@@ -2,6 +2,10 @@
 
 A Python Tkinter application that simulates three types of sensors (Radar, Sonar, and LiDAR) detecting different objects in an ocean environment.
 
+## Screenshot
+
+![Multi-Scanner Simulator in Action](screenshot.png)
+
 ## Features
 
 - **Three sensor types** with realistic detection capabilities:
