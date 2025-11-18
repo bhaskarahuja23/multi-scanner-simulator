@@ -4,7 +4,7 @@ A Python Tkinter application that simulates three types of sensors (Radar, Sonar
 
 ## Screenshot
 
-![Multi-Scanner Simulator in Action](screenshot.png)
+![Multi-Scanner Simulator in Action](Screenshot.png)
 
 ## Features
 
